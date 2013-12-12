@@ -1,0 +1,13 @@
+{
+    "name": "wrakky/oauthdamnit",
+    "description": "Simple OAuth class",
+    "keywords": ["oauth"],
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Thai Pangsakulyanont",
+            "homepage": "http://me.dt.in.th/"
+        }
+    ]
+}
